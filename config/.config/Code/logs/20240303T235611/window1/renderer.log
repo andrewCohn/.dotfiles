@@ -1,3 +1,0 @@
-2024-03-03 23:56:11.952 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/andrew/rei.txt","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
-2024-03-03 23:56:12.238 [info] Started local extension host with pid 17796.
-2024-03-03 23:56:14.894 [info] [perf] Render performance baseline is 34ms

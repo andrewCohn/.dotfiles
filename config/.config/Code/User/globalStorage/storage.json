@@ -4,8 +4,7 @@
         "workspaces": {},
         "emptyWindows": {
             "1709542786047": "__default__profile__",
-            "1709581365241": "__default__profile__",
-            "1709582124180": "__default__profile__"
+            "1709581365241": "__default__profile__"
         }
     },
     "profileAssociationsMigration": true,
@@ -20,9 +19,6 @@
             },
             {
                 "backupFolder": "1709581365241"
-            },
-            {
-                "backupFolder": "1709582124180"
             }
         ]
     },
@@ -69,6 +65,28 @@
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/andrew/.config/picom/picom.conf",
+                                        "path": "/home/andrew/.config/picom/picom.conf",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/picom/picom.conf"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/andrew/.config/awesome/rc.lua",
+                                        "path": "/home/andrew/.config/awesome/rc.lua",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/awesome/rc.lua"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -159,28 +177,6 @@
                                     "label": "~/rei.txt"
                                 },
                                 {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/andrew/.config/polybar/scripts/get_spotify_status.sh",
-                                        "path": "/home/andrew/.config/polybar/scripts/get_spotify_status.sh",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.config/polybar/scripts/get_spotify_status.sh"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/andrew/.config/polybar/get_spotify_status.sh",
-                                        "path": "/home/andrew/.config/polybar/get_spotify_status.sh",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.config/polybar/get_spotify_status.sh"
-                                },
-                                {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
@@ -225,8 +221,7 @@
                     },
                     {
                         "id": "saveAll",
-                        "label": "Save A&&ll",
-                        "enabled": false
+                        "label": "Save A&&ll"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -564,7 +559,8 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "&&Primary Side Bar"
+                                    "label": "&&Primary Side Bar",
+                                    "checked": true
                                 },
                                 {
                                     "id": "workbench.action.toggleAuxiliaryBar",
@@ -770,6 +766,13 @@
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
+                                    "id": "workbench.action.splitEditorInGroup",
+                                    "label": "Split in &&Group"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
                                     "id": "workbench.action.moveEditorToNewWindow",
                                     "label": "&&Move Editor into New Window"
                                 },
@@ -869,8 +872,7 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "&&Word Wrap",
-                        "enabled": false
+                        "label": "&&Word Wrap"
                     }
                 ]
             },
@@ -878,8 +880,7 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back",
-                        "enabled": false
+                        "label": "&&Back"
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -888,8 +889,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1553,6 +1553,11 @@
                 "isNative": false,
                 "userSettingsLabel": "ctrl+k ctrl+\\"
             },
+            "workbench.action.splitEditorInGroup": {
+                "label": "Ctrl+K Ctrl+Shift+\\",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k ctrl+shift+\\"
+            },
             "workbench.action.copyEditorToNewWindow": {
                 "label": "Ctrl+K O",
                 "isNative": false,
@@ -1798,19 +1803,19 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 0,
             "activityBarWidth": 48,
-            "sideBarWidth": 0,
+            "sideBarWidth": 185,
             "statusBarHeight": 22,
             "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/andrew/.config/Code/Backups/1709581365241",
+            "backupPath": "/home/andrew/.config/Code/Backups/1709542786047",
             "uiState": {
                 "mode": 0,
                 "x": 566,
                 "y": 44,
-                "width": 1024,
+                "width": 710,
                 "height": 752
             }
         },
