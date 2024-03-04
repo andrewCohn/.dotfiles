@@ -1,0 +1,134 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#	deleted:    config/.config/Code/Backups/1709542786047/file/-51da4c80
+#	modified:   config/.config/Code/Cache/Cache_Data/1fecfe666e65f170_0
+#	modified:   config/.config/Code/Cache/Cache_Data/d121e2a6335b7510_0
+#	modified:   config/.config/Code/Cache/Cache_Data/index-dir/the-real-index
+#	modified:   config/.config/Code/CachedData/019f4d1419fbc8219a181fab7892ebccf7ee29a2/chrome/js/index-dir/the-real-index
+#	new file:   config/.config/Code/CachedData/019f4d1419fbc8219a181fab7892ebccf7ee29a2/extension-d55b1a42d51f480c74b39f5cbc948007.code
+#	modified:   config/.config/Code/DawnCache/index
+#	modified:   config/.config/Code/GPUCache/data_0
+#	modified:   config/.config/Code/GPUCache/data_1
+#	modified:   config/.config/Code/GPUCache/data_2
+#	modified:   config/.config/Code/GPUCache/index
+#	modified:   config/.config/Code/Local Storage/leveldb/LOG
+#	modified:   config/.config/Code/Local Storage/leveldb/LOG.old
+#	modified:   config/.config/Code/Service Worker/Database/LOG
+#	modified:   config/.config/Code/Service Worker/Database/LOG.old
+#	modified:   config/.config/Code/TransportSecurity
+#	new file:   config/.config/Code/User/History/22eafb5c/3hUz.conf
+#	new file:   config/.config/Code/User/History/22eafb5c/entries.json
+#	new file:   config/.config/Code/User/History/22eafb5c/iWPz.conf
+#	new file:   config/.config/Code/User/History/5896f012/1KH5.lua
+#	new file:   config/.config/Code/User/History/5896f012/1kyL.lua
+#	new file:   config/.config/Code/User/History/5896f012/3k7B.lua
+#	new file:   config/.config/Code/User/History/5896f012/SaOM.lua
+#	modified:   config/.config/Code/User/History/5896f012/entries.json
+#	modified:   config/.config/Code/User/globalStorage/state.vscdb
+#	modified:   config/.config/Code/User/globalStorage/storage.json
+#	modified:   config/.config/Code/User/workspaceStorage/1709542786047/state.vscdb
+#	modified:   config/.config/Code/User/workspaceStorage/1709581365241/state.vscdb
+#	new file:   config/.config/Code/User/workspaceStorage/99013a40a1710a09b6f51bdd0589ab10/state.vscdb
+#	new file:   config/.config/Code/User/workspaceStorage/99013a40a1710a09b6f51bdd0589ab10/workspace.json
+#	modified:   config/.config/Code/code.lock
+#	deleted:    config/.config/Code/logs/20240304T015707/main.log
+#	deleted:    config/.config/Code/logs/20240304T015707/network.log
+#	deleted:    config/.config/Code/logs/20240304T015707/remoteTunnelService.log
+#	deleted:    config/.config/Code/logs/20240304T015707/telemetry.log
+#	deleted:    config/.config/Code/logs/20240304T015707/terminal.log
+#	deleted:    config/.config/Code/logs/20240304T015707/userDataSync.log
+#	deleted:    config/.config/Code/logs/20240304T015707/window1/exthost/extensionTelemetry.log
+#	deleted:    config/.config/Code/logs/20240304T015707/window1/exthost/ms-python.debugpy/Python Debugger.log
+#	deleted:    config/.config/Code/logs/20240304T015707/window1/exthost/ms-python.python/Python Language Server.log
+#	deleted:    config/.config/Code/logs/20240304T015707/window1/exthost/ms-python.python/Python.log
+#	deleted:    config/.config/Code/logs/20240304T015707/window1/exthost/output_logging_20240304T015708/2-Jupyter.log
+#	deleted:    config/.config/Code/logs/20240304T015707/window1/exthost/vscode.git/Git.log
+#	deleted:    config/.config/Code/logs/20240304T015707/window1/exthost/vscode.github/GitHub.log
+#	deleted:    config/.config/Code/logs/20240304T015707/window1/renderer.log
+#	deleted:    config/.config/Code/logs/20240304T015707/window1/views.log
+#	deleted:    config/.config/Code/logs/20240304T015707/window2/exthost/extensionTelemetry.log
+#	deleted:    config/.config/Code/logs/20240304T015707/window2/exthost/ms-python.python/Python Language Server.log
+#	deleted:    config/.config/Code/logs/20240304T015707/window2/exthost/ms-python.python/Python.log
+#	deleted:    config/.config/Code/logs/20240304T015707/window2/exthost/output_logging_20240304T015945/1-Jupyter.log
+#	deleted:    config/.config/Code/logs/20240304T015707/window2/exthost/output_logging_20240304T015945/3-Python Test Log.log
+#	deleted:    config/.config/Code/logs/20240304T015707/window2/exthost/output_logging_20240304T015945/4-JSON Language Server.log
+#	deleted:    config/.config/Code/logs/20240304T015707/window2/exthost/output_logging_20240304T015945/5-JSON Language Server.log
+#	deleted:    config/.config/Code/logs/20240304T015707/window2/exthost/vscode.git/Git.log
+#	deleted:    config/.config/Code/logs/20240304T015707/window2/exthost/vscode.github/GitHub.log
+#	deleted:    config/.config/Code/logs/20240304T015707/window2/network.log
+#	deleted:    config/.config/Code/logs/20240304T015707/window2/renderer.log
+#	deleted:    config/.config/Code/logs/20240304T015707/window2/views.log
+#	deleted:    config/.config/Code/logs/20240304T015707/window3/exthost/extensionTelemetry.log
+#	deleted:    config/.config/Code/logs/20240304T015707/window3/exthost/vscode.git/Git.log
+#	deleted:    config/.config/Code/logs/20240304T015707/window3/exthost/vscode.github/GitHub.log
+#	deleted:    config/.config/Code/logs/20240304T015707/window3/network.log
+#	deleted:    config/.config/Code/logs/20240304T015707/window3/renderer.log
+#	deleted:    config/.config/Code/logs/20240304T015707/window3/views.log
+#	new file:   config/.config/Code/logs/20240304T133315/editSessions.log
+#	new file:   config/.config/Code/logs/20240304T133315/main.log
+#	new file:   config/.config/Code/logs/20240304T133315/network.log
+#	new file:   config/.config/Code/logs/20240304T133315/remoteTunnelService.log
+#	new file:   config/.config/Code/logs/20240304T133315/sharedprocess.log
+#	new file:   config/.config/Code/logs/20240304T133315/telemetry.log
+#	renamed:    config/.config/Code/logs/20240304T015707/ptyhost.log -> config/.config/Code/logs/20240304T133315/terminal.log
+#	new file:   config/.config/Code/logs/20240304T133315/userDataSync.log
+#	new file:   config/.config/Code/logs/20240304T133315/window1/exthost/extensionTelemetry.log
+#	renamed:    config/.config/Code/logs/20240304T015707/window3/exthost/exthost.log -> config/.config/Code/logs/20240304T133315/window1/exthost/exthost.log
+#	new file:   config/.config/Code/logs/20240304T133315/window1/exthost/vscode.git/Git.log
+#	new file:   config/.config/Code/logs/20240304T133315/window1/exthost/vscode.github/GitHub.log
+#	new file:   config/.config/Code/logs/20240304T133315/window1/network.log
+#	renamed:    config/.config/Code/logs/20240304T015707/window1/notebook.rendering.log -> config/.config/Code/logs/20240304T133315/window1/notebook.rendering.log
+#	renamed:    config/.config/Code/logs/20240304T015707/window1/output_20240304T015708/tasks.log -> config/.config/Code/logs/20240304T133315/window1/output_20240304T133317/tasks.log
+#	new file:   config/.config/Code/logs/20240304T133315/window1/renderer.log
+#	new file:   config/.config/Code/logs/20240304T133315/window1/views.log
+#	new file:   config/.config/Code/logs/20240304T133315/window2/exthost/extensionTelemetry.log
+#	renamed:    config/.config/Code/logs/20240304T015707/window1/exthost/exthost.log -> config/.config/Code/logs/20240304T133315/window2/exthost/exthost.log
+#	new file:   config/.config/Code/logs/20240304T133315/window2/exthost/vscode.git/Git.log
+#	new file:   config/.config/Code/logs/20240304T133315/window2/exthost/vscode.github/GitHub.log
+#	new file:   config/.config/Code/logs/20240304T133315/window2/network.log
+#	renamed:    config/.config/Code/logs/20240304T015707/window2/notebook.rendering.log -> config/.config/Code/logs/20240304T133315/window2/notebook.rendering.log
+#	renamed:    config/.config/Code/logs/20240304T015707/window2/output_20240304T015945/tasks.log -> config/.config/Code/logs/20240304T133315/window2/output_20240304T133316/tasks.log
+#	new file:   config/.config/Code/logs/20240304T133315/window2/renderer.log
+#	new file:   config/.config/Code/logs/20240304T133315/window2/views.log
+#	renamed:    config/.config/Code/logs/20240304T015707/editSessions.log -> config/.config/Code/logs/20240304T133717/editSessions.log
+#	new file:   config/.config/Code/logs/20240304T133717/main.log
+#	new file:   config/.config/Code/logs/20240304T133717/network.log
+#	new file:   config/.config/Code/logs/20240304T133717/remoteTunnelService.log
+#	renamed:    config/.config/Code/logs/20240304T015707/sharedprocess.log -> config/.config/Code/logs/20240304T133717/sharedprocess.log
+#	new file:   config/.config/Code/logs/20240304T133717/telemetry.log
+#	renamed:    config/.config/Code/logs/20240304T015707/window1/exthost/output_logging_20240304T015708/1-Python Test Log.log -> config/.config/Code/logs/20240304T133717/terminal.log
+#	new file:   config/.config/Code/logs/20240304T133717/userDataSync.log
+#	new file:   config/.config/Code/logs/20240304T133717/window1/exthost/extensionTelemetry.log
+#	new file:   config/.config/Code/logs/20240304T133717/window1/exthost/exthost.log
+#	new file:   config/.config/Code/logs/20240304T133717/window1/exthost/vscode.git/Git.log
+#	new file:   config/.config/Code/logs/20240304T133717/window1/exthost/vscode.github-authentication/GitHub Authentication.log
+#	new file:   config/.config/Code/logs/20240304T133717/window1/exthost/vscode.github/GitHub.log
+#	new file:   config/.config/Code/logs/20240304T133717/window1/network.log
+#	renamed:    config/.config/Code/logs/20240304T015707/window3/notebook.rendering.log -> config/.config/Code/logs/20240304T133717/window1/notebook.rendering.log
+#	renamed:    config/.config/Code/logs/20240304T015707/window3/output_20240304T020705/tasks.log -> config/.config/Code/logs/20240304T133717/window1/output_20240304T133718/tasks.log
+#	renamed:    config/.config/Code/logs/20240304T015707/window1/exthost/output_logging_20240304T015708/3-Jupyter Server Console.log -> config/.config/Code/logs/20240304T133717/window1/output_20240304T133806/tasks.log
+#	new file:   config/.config/Code/logs/20240304T133717/window1/renderer.log
+#	new file:   config/.config/Code/logs/20240304T133717/window1/views.log
+#	new file:   config/.config/Code/logs/20240304T133717/window2/exthost/extensionTelemetry.log
+#	renamed:    config/.config/Code/logs/20240304T015707/window2/exthost/exthost.log -> config/.config/Code/logs/20240304T133717/window2/exthost/exthost.log
+#	new file:   config/.config/Code/logs/20240304T133717/window2/exthost/vscode.git/Git.log
+#	new file:   config/.config/Code/logs/20240304T133717/window2/exthost/vscode.github/GitHub.log
+#	new file:   config/.config/Code/logs/20240304T133717/window2/network.log
+#	renamed:    config/.config/Code/logs/20240304T015707/window1/network.log -> config/.config/Code/logs/20240304T133717/window2/notebook.rendering.log
+#	renamed:    config/.config/Code/logs/20240304T015707/window2/exthost/output_logging_20240304T015945/2-Jupyter Server Console.log -> config/.config/Code/logs/20240304T133717/window2/output_20240304T133718/tasks.log
+#	new file:   config/.config/Code/logs/20240304T133717/window2/renderer.log
+#	new file:   config/.config/Code/logs/20240304T133717/window2/views.log
+#	modified:   config/.config/awesome/rc.lua
+#	modified:   config/.config/dconf/user
+#	modified:   config/.config/picom/picom.conf
+#
+# Changes not staged for commit:
+#	modified:   config/.config/Code/logs/20240304T133717/window1/exthost/vscode.git/Git.log
+#
+git stuff
