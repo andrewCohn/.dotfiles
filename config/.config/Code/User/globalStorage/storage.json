@@ -3,9 +3,9 @@
     "profileAssociations": {
         "workspaces": {},
         "emptyWindows": {
-            "1709535511250": "__default__profile__",
-            "1709543224994": "__default__profile__",
-            "1709542786047": "__default__profile__"
+            "1709542786047": "__default__profile__",
+            "1709581365241": "__default__profile__",
+            "1709582124180": "__default__profile__"
         }
     },
     "profileAssociationsMigration": true,
@@ -17,6 +17,12 @@
         "emptyWindows": [
             {
                 "backupFolder": "1709542786047"
+            },
+            {
+                "backupFolder": "1709581365241"
+            },
+            {
+                "backupFolder": "1709582124180"
             }
         ]
     },
@@ -63,6 +69,28 @@
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/andrew/.dotfiles/config/.config/sway/config",
+                                        "path": "/home/andrew/.dotfiles/config/.config/sway/config",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.dotfiles/config/.config/sway/config"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/andrew/dotfiles/readme.md",
+                                        "path": "/home/andrew/dotfiles/readme.md",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/dotfiles/readme.md"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -153,28 +181,6 @@
                                     "label": "~/.config/polybar/get_spotify_status.sh"
                                 },
                                 {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/andrew/.config/awesome/rc.lua",
-                                        "path": "/home/andrew/.config/awesome/rc.lua",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.config/awesome/rc.lua"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/andrew/.config/polybar/launch.sh",
-                                        "path": "/home/andrew/.config/polybar/launch.sh",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.config/polybar/launch.sh"
-                                },
-                                {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
@@ -219,7 +225,8 @@
                     },
                     {
                         "id": "saveAll",
-                        "label": "Save A&&ll"
+                        "label": "Save A&&ll",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -557,8 +564,7 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "&&Primary Side Bar",
-                                    "checked": true
+                                    "label": "&&Primary Side Bar"
                                 },
                                 {
                                     "id": "workbench.action.toggleAuxiliaryBar",
@@ -840,10 +846,6 @@
                         "label": "E&&xtensions"
                     },
                     {
-                        "id": "workbench.view.extension.test",
-                        "label": "T&&esting"
-                    },
-                    {
                         "id": "vscode.menubar.separator"
                     },
                     {
@@ -876,7 +878,8 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back"
+                        "label": "&&Back",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -1795,22 +1798,43 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 0,
             "activityBarWidth": 48,
-            "sideBarWidth": 185,
+            "sideBarWidth": 0,
             "statusBarHeight": 22,
             "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/andrew/.config/Code/Backups/1709542786047",
+            "backupPath": "/home/andrew/.config/Code/Backups/1709581365241",
             "uiState": {
-                "mode": 1,
-                "x": 28,
-                "y": 70,
-                "width": 710,
-                "height": 905
+                "mode": 0,
+                "x": 566,
+                "y": 44,
+                "width": 1024,
+                "height": 752
             }
         },
-        "openedWindows": []
+        "openedWindows": [
+            {
+                "backupPath": "/home/andrew/.config/Code/Backups/1709542786047",
+                "uiState": {
+                    "mode": 0,
+                    "x": 566,
+                    "y": 44,
+                    "width": 710,
+                    "height": 752
+                }
+            },
+            {
+                "backupPath": "/home/andrew/.config/Code/Backups/1709581365241",
+                "uiState": {
+                    "mode": 0,
+                    "x": 566,
+                    "y": 44,
+                    "width": 1024,
+                    "height": 752
+                }
+            }
+        ]
     }
 }
