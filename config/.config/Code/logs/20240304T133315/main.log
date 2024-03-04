@@ -1,0 +1,6 @@
+2024-03-04 13:33:15.951 [info] update#setState idle
+2024-03-04 13:33:45.954 [info] update#setState checking for updates
+2024-03-04 13:33:45.962 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-03-04 13:33:45.963 [info] update#setState idle

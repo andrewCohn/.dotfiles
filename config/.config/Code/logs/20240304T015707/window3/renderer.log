@@ -1,3 +1,0 @@
-2024-03-04 02:07:04.838 [info] Started local extension host with pid 18275.
-2024-03-04 02:07:07.474 [info] [perf] Render performance baseline is 23ms
-2024-03-04 02:37:28.216 [info] [lifecycle]: Shutdown was prevented by final veto (id: veto.backups)

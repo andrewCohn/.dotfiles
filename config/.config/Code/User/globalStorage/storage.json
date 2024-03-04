@@ -1,7 +1,9 @@
 {
     "userDataProfilesMigration": true,
     "profileAssociations": {
-        "workspaces": {},
+        "workspaces": {
+            "file:///home/andrew/.dotfiles": "__default__profile__"
+        },
         "emptyWindows": {
             "1709542786047": "__default__profile__",
             "1709581365241": "__default__profile__"
@@ -12,7 +14,11 @@
     "telemetry.machineId": "30f3836e8a825d75453e8818ca0ae495aaeb4ca68937695667ecd264a1863854",
     "backupWorkspaces": {
         "workspaces": [],
-        "folders": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/andrew/.dotfiles"
+            }
+        ],
         "emptyWindows": [
             {
                 "backupFolder": "1709542786047"
@@ -60,8 +66,21 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor",
-                                    "enabled": false
+                                    "label": "&&Reopen Closed Editor"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/andrew/.dotfiles",
+                                        "path": "/home/andrew/.dotfiles",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.dotfiles"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -221,7 +240,8 @@
                     },
                     {
                         "id": "saveAll",
-                        "label": "Save A&&ll"
+                        "label": "Save A&&ll",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -231,6 +251,13 @@
                         "label": "Share",
                         "submenu": {
                             "items": [
+                                {
+                                    "id": "github.copyVscodeDevLinkFile",
+                                    "label": "Copy vscode.dev Link"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
                                 {
                                     "id": "workbench.profiles.actions.exportProfile",
                                     "label": "Export Profile (Default)..."
@@ -364,6 +391,10 @@
                     {
                         "id": "workbench.action.closeActiveEditor",
                         "label": "&&Close Editor"
+                    },
+                    {
+                        "id": "workbench.action.closeFolder",
+                        "label": "Close &&Folder"
                     },
                     {
                         "id": "workbench.action.closeWindow",
@@ -872,7 +903,8 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "&&Word Wrap"
+                        "label": "&&Word Wrap",
+                        "enabled": false
                     }
                 ]
             },
@@ -880,7 +912,8 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back"
+                        "label": "&&Back",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -889,7 +922,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1406,6 +1440,11 @@
                 "label": "Ctrl+W",
                 "userSettingsLabel": "ctrl+w"
             },
+            "workbench.action.closeFolder": {
+                "label": "Ctrl+K F",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k f"
+            },
             "workbench.action.closeWindow": {
                 "label": "Alt+F4",
                 "userSettingsLabel": "alt+f4"
@@ -1810,7 +1849,8 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/andrew/.config/Code/Backups/1709542786047",
+            "folder": "file:///home/andrew/.dotfiles",
+            "backupPath": "/home/andrew/.config/Code/Backups/a2f5a7f6d0ed4909dc72921a6a135b7d",
             "uiState": {
                 "mode": 0,
                 "x": 566,
@@ -1821,7 +1861,8 @@
         },
         "openedWindows": [
             {
-                "backupPath": "/home/andrew/.config/Code/Backups/1709542786047",
+                "folder": "file:///home/andrew/.dotfiles",
+                "backupPath": "/home/andrew/.config/Code/Backups/a2f5a7f6d0ed4909dc72921a6a135b7d",
                 "uiState": {
                     "mode": 0,
                     "x": 566,
