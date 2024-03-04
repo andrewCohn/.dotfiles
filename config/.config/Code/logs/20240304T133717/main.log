@@ -15,3 +15,4 @@
 2024-03-04 13:38:05.325 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
 2024-03-04 13:38:05.325 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 1851]: crashed with code 15 and reason 'killed'
 2024-03-04 13:38:05.327 [info] Extension host with pid 1821 exited with code: 0, signal: unknown.
+2024-03-04 13:41:30.536 [info] Extension host with pid 1811 exited with code: 0, signal: unknown.

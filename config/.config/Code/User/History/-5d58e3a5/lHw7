@@ -1,0 +1,26 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is ahead of 'origin/master' by 1 commit.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	modified:   config/.config/Code/TransportSecurity
+#	new file:   config/.config/Code/User/History/-5d58e3a5/XYbY
+#	new file:   config/.config/Code/User/History/-69a13904/Dkyi.json
+#	modified:   config/.config/Code/User/globalStorage/state.vscdb
+#	modified:   config/.config/Code/User/globalStorage/storage.json
+#	modified:   config/.config/Code/User/settings.json
+#	modified:   config/.config/Code/User/workspaceStorage/1709581365241/state.vscdb
+#	modified:   config/.config/Code/User/workspaceStorage/99013a40a1710a09b6f51bdd0589ab10/state.vscdb
+#	modified:   config/.config/Code/logs/20240304T133717/window1/exthost/exthost.log
+#	new file:   config/.config/Code/logs/20240304T133717/window1/exthost/output_logging_20240304T133806/1-JSON Language Server.log
+#	new file:   config/.config/Code/logs/20240304T133717/window1/exthost/output_logging_20240304T133806/2-JSON Language Server.log
+#	modified:   config/.config/Code/logs/20240304T133717/window1/exthost/vscode.git/Git.log
+#
+# Changes not staged for commit:
+#	modified:   config/.config/Code/logs/20240304T133717/window1/exthost/vscode.git/Git.log
+#
+more git stuff

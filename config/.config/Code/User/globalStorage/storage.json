@@ -89,6 +89,17 @@
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
+                                        "external": "file:///home/andrew/.dotfiles/config/.config/polybar/config.ini",
+                                        "path": "/home/andrew/.dotfiles/config/.config/polybar/config.ini",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.dotfiles/config/.config/polybar/config.ini"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/andrew/.config/picom/picom.conf",
                                         "path": "/home/andrew/.config/picom/picom.conf",
                                         "scheme": "file"
@@ -183,17 +194,6 @@
                                     },
                                     "enabled": true,
                                     "label": "~/test-unicode.py"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/andrew/rei.txt",
-                                        "path": "/home/andrew/rei.txt",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/rei.txt"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
