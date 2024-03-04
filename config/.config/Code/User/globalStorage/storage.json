@@ -21,9 +21,6 @@
         ],
         "emptyWindows": [
             {
-                "backupFolder": "1709542786047"
-            },
-            {
                 "backupFolder": "1709581365241"
             }
         ]
@@ -66,7 +63,8 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor"
+                                    "label": "&&Reopen Closed Editor",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -911,7 +909,8 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back"
+                        "label": "&&Back",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.navigateForward",
