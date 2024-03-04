@@ -1,5 +1,0 @@
-2024-03-04 13:37:17.925 [info] Started local extension host with pid 1821.
-2024-03-04 13:37:20.848 [info] [perf] Render performance baseline is 31ms
-2024-03-04 13:38:05.293 [warning] [backup tracker] suspended, ignoring dirty change event file:///home/andrew/cat.txt 
-2024-03-04 13:38:05.935 [info] Started local extension host with pid 3601.
-2024-03-04 13:38:08.838 [info] [perf] Render performance baseline is 30ms

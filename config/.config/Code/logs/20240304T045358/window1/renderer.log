@@ -1,3 +1,0 @@
-2024-03-04 04:53:58.559 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/andrew/.profile","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
-2024-03-04 04:53:58.738 [info] Started local extension host with pid 3706.
-2024-03-04 04:54:01.457 [info] [perf] Render performance baseline is 20ms
