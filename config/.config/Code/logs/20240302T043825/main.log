@@ -1,0 +1,10 @@
+2024-03-02 04:38:25.868 [info] update#setState idle
+2024-03-02 04:38:26.769 [error] update#isLatestVersion(): failed to check for updates
+2024-03-02 04:38:26.770 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-03-02 04:38:55.870 [info] update#setState checking for updates
+2024-03-02 04:38:56.348 [info] update#setState idle
+2024-03-02 04:45:02.273 [error] [UtilityProcess type: shared-process, pid: 2230]: crashed with code 15 and reason 'killed'
+2024-03-02 04:45:02.276 [info] Extension host with pid 2232 exited with code: 15, signal: unknown.
+2024-03-02 04:45:02.276 [error] [UtilityProcess id: 1, type: extensionHost, pid: 2232]: crashed with code 15 and reason 'killed'

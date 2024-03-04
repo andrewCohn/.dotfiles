@@ -1,0 +1,59 @@
+2024-03-02 04:38:26.712 [info] Extension host with pid 2232 started
+2024-03-02 04:38:26.761 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-03-02 04:38:26.787 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-03-02 04:38:26.789 [info] ExtensionService#_doActivateExtension ID-wj.transparent-win, startup: true, activationEvent: '*'
+2024-03-02 04:38:26.810 [error] Activating extension ID-wj.transparent-win failed due to an error:
+2024-03-02 04:38:26.810 [error] Error: Error in native callback
+	at process.func [as dlopen] (node:electron/js2c/node_init:2:2107)
+	at Object.<anonymous> (node:internal/modules/cjs/loader:1356:18)
+	at Object.func [as .node] (node:electron/js2c/node_init:2:2107)
+	at Module.load (node:internal/modules/cjs/loader:1126:32)
+	at node:internal/modules/cjs/loader:967:12
+	at Function.<anonymous> (node:electron/js2c/node_init:2:13357)
+	at h._load (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:5634)
+	at n._load (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:170:29786)
+	at t._load (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:35289)
+	at Module.require (node:internal/modules/cjs/loader:1150:19)
+	at h (/opt/visual-studio-code/resources/app/out/vs/loader.js:4:647)
+	at load (/home/andrew/.vscode/extensions/id-wj.transparent-win-0.0.1/node_modules/node-gyp-build/index.js:22:10)
+	at Object.<anonymous> (/home/andrew/.vscode/extensions/id-wj.transparent-win-0.0.1/node_modules/ref-napi/lib/ref.js:8:53)
+	at o._compile (/opt/visual-studio-code/resources/app/out/vs/loader.js:4:1271)
+	at Object..js (node:internal/modules/cjs/loader:1326:10)
+	at Module.load (node:internal/modules/cjs/loader:1126:32)
+	at node:internal/modules/cjs/loader:967:12
+	at Function.<anonymous> (node:electron/js2c/node_init:2:13357)
+	at h._load (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:5634)
+	at n._load (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:170:29786)
+	at t._load (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:35289)
+	at Module.require (node:internal/modules/cjs/loader:1150:19)
+	at h (/opt/visual-studio-code/resources/app/out/vs/loader.js:4:647)
+	at Object.<anonymous> (/home/andrew/.vscode/extensions/id-wj.transparent-win-0.0.1/src/handleOperation.js:1:75)
+	at o._compile (/opt/visual-studio-code/resources/app/out/vs/loader.js:4:1271)
+	at Object..js (node:internal/modules/cjs/loader:1326:10)
+	at Module.load (node:internal/modules/cjs/loader:1126:32)
+	at node:internal/modules/cjs/loader:967:12
+	at Function.<anonymous> (node:electron/js2c/node_init:2:13357)
+	at h._load (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:5634)
+	at n._load (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:170:29786)
+	at t._load (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:35289)
+	at Module.require (node:internal/modules/cjs/loader:1150:19)
+	at h (/opt/visual-studio-code/resources/app/out/vs/loader.js:4:647)
+	at Object.<anonymous> (/home/andrew/.vscode/extensions/id-wj.transparent-win-0.0.1/src/extension.js:5:46)
+	at o._compile (/opt/visual-studio-code/resources/app/out/vs/loader.js:4:1271)
+	at Object..js (node:internal/modules/cjs/loader:1326:10)
+	at Module.load (node:internal/modules/cjs/loader:1126:32)
+	at node:internal/modules/cjs/loader:967:12
+	at Function.<anonymous> (node:electron/js2c/node_init:2:13357)
+	at h._load (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:5634)
+	at n._load (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:170:29786)
+	at t._load (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:35289)
+	at Module.require (node:internal/modules/cjs/loader:1150:19)
+	at require (node:internal/modules/cjs/helpers:121:18)
+	at Function.i [as __$__nodeRequire] (/opt/visual-studio-code/resources/app/out/vs/loader.js:5:98)
+	at w.vb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:170:30965)
+	at async Promise.all (index 0)
+2024-03-02 04:38:26.812 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-03-02 04:38:26.830 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-03-02 04:38:26.873 [info] Eager extensions activated
+2024-03-02 04:38:26.894 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-03-02 04:38:26.896 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
