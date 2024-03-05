@@ -40,3 +40,16 @@
 2024-03-04T07:27:16.236Z 9: webContents.destroyed web1
 2024-03-04T07:27:16.237Z 10: window.closed win1
 2024-03-04T07:29:39.128Z 11: before-quit
+2024-03-05T01:06:41.788Z 0: 
+
+----------------------------------------------
+2024-03-05T01:06:41.795Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.43"}, modulepath: /home/andrew/.config/discord/0.0.43/modules
+2024-03-05T01:06:41.805Z 2: ✅ webContents.created web1 ""
+2024-03-05T01:06:41.807Z 3: ✅ window.created win1 "discord"
+2024-03-05T01:06:41.995Z 4: ✅ webContents.did-finish-load web1
+2024-03-05T01:06:42.247Z 5: ✅ webContents.created web2 ""
+2024-03-05T01:06:42.256Z 6: ✅ window.created win2 "Discord"
+2024-03-05T01:06:43.728Z 7: ✅ webContents.did-finish-load web2
+2024-03-05T01:06:43.827Z 8: window.close win1
+2024-03-05T01:06:43.832Z 9: webContents.destroyed web1
+2024-03-05T01:06:43.832Z 10: window.closed win1

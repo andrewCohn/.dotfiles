@@ -82,6 +82,39 @@
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
+                                        "external": "file:///home/andrew/.config/awesome/rc.lua",
+                                        "path": "/home/andrew/.config/awesome/rc.lua",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/awesome/rc.lua"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/andrew/cats.txt",
+                                        "path": "/home/andrew/cats.txt",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/cats.txt"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/andrew/rei.txt",
+                                        "path": "/home/andrew/rei.txt",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/rei.txt"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/andrew/.zshrc",
                                         "path": "/home/andrew/.zshrc",
                                         "scheme": "file"
@@ -99,17 +132,6 @@
                                     },
                                     "enabled": true,
                                     "label": "~/.config/kitty/kitty.conf"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/andrew/.config/awesome/rc.lua",
-                                        "path": "/home/andrew/.config/awesome/rc.lua",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.config/awesome/rc.lua"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -167,28 +189,6 @@
                                     "label": "~/dotfiles/readme.md"
                                 },
                                 {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/andrew/.profile",
-                                        "path": "/home/andrew/.profile",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.profile"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/andrew/.zprofile",
-                                        "path": "/home/andrew/.zprofile",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.zprofile"
-                                },
-                                {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
@@ -233,8 +233,7 @@
                     },
                     {
                         "id": "saveAll",
-                        "label": "Save A&&ll",
-                        "enabled": false
+                        "label": "Save A&&ll"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -572,7 +571,8 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "&&Primary Side Bar"
+                                    "label": "&&Primary Side Bar",
+                                    "checked": true
                                 },
                                 {
                                     "id": "workbench.action.toggleAuxiliaryBar",
@@ -892,7 +892,8 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back"
+                        "label": "&&Back",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -901,7 +902,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1815,7 +1817,7 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 0,
             "activityBarWidth": 48,
-            "sideBarWidth": 0,
+            "sideBarWidth": 170,
             "statusBarHeight": 22,
             "windowBorder": false
         }
@@ -1825,9 +1827,9 @@
             "backupPath": "/home/andrew/.config/Code/Backups/1709581365241",
             "uiState": {
                 "mode": 1,
-                "x": 762,
+                "x": 28,
                 "y": 60,
-                "width": 714,
+                "width": 1448,
                 "height": 915
             }
         },

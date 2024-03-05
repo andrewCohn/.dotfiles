@@ -1,8 +1,3 @@
-2024/03/02-04:04:02.789 2474 Reusing MANIFEST /home/andrew/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2024/03/02-04:04:02.789 2474 Recovering log #3
-2024/03/02-04:04:02.800 2474 Level-0 table #3: started
-2024/03/02-04:04:02.807 2474 Level-0 table #3: 738239 bytes OK
-2024/03/02-04:04:02.809 2474 Delete type=0 #3
-2024/03/02-04:04:16.012 2506 Level-0 table #6: started
-2024/03/02-04:04:16.028 2506 Level-0 table #6: 731179 bytes OK
-2024/03/02-04:04:16.029 2506 Delete type=0 #4
+2024/03/04-00:27:14.150 fc7d Reusing MANIFEST /home/andrew/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/03/04-00:27:14.150 fc7d Recovering log #5
+2024/03/04-00:27:14.150 fc7d Reusing old log /home/andrew/.config/discord/Local Storage/leveldb/000005.log 

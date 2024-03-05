@@ -1,0 +1,8 @@
+2024-03-04 16:59:09.136 [info] update#setState idle
+2024-03-04 16:59:10.439 [error] update#isLatestVersion(): failed to check for updates
+2024-03-04 16:59:10.439 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-03-04 16:59:39.133 [info] update#setState checking for updates
+2024-03-04 16:59:39.304 [info] update#setState idle
+2024-03-04 17:13:22.435 [info] Extension host with pid 5120 exited with code: 0, signal: unknown.

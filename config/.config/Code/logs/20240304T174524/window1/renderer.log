@@ -1,0 +1,10 @@
+2024-03-04 17:45:25.336 [info] Started local extension host with pid 80998.
+2024-03-04 17:45:28.528 [info] [perf] Render performance baseline is 23ms
+2024-03-04 17:46:48.823 [error] Unable to read file '/home/andrew/rei.txt' (Error: File not modified since): Error: Unable to read file '/home/andrew/rei.txt' (Error: File not modified since)
+    at n.F (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:653:19875)
+    at n.D (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:653:19763)
+    at async d.M (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2423:42865)
+    at async d.readStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2423:42622)
+    at async T.Cb (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2412:13526)
+    at async T.resolve (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2412:11973)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2423:38734
