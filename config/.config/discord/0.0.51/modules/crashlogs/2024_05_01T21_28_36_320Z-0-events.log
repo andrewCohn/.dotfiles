@@ -1,0 +1,9 @@
+2024-05-01T21:28:36.329Z 0: 
+
+----------------------------------------------
+2024-05-01T21:28:36.346Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.51"}, modulepath: /home/andrew/.config/discord/0.0.51/modules
+2024-05-01T21:28:36.348Z 2: ✅ webContents.created web1 ""
+2024-05-01T21:28:36.353Z 3: ✅ window.created win1 "discord"
+2024-05-01T21:28:36.544Z 4: ✅ webContents.did-finish-load web1
+2024-05-01T21:28:41.238Z 5: before-quit
+2024-05-01T21:28:41.243Z 6: window.close win1

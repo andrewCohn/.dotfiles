@@ -1,1 +1,1 @@
-{"editor.experimental.asyncTokenization":true}
+{"python.analysis.addImport.heuristics":true,"editor.experimental.asyncTokenization":true}

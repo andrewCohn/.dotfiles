@@ -1,0 +1,608 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="empty-repo-ethancoreytharidandrew" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="showOnlyModified" value="false" />
+    <option name="myColumnSize">
+      <list>
+        <option value="149" />
+        <option value="168" />
+        <option value="167" />
+        <option value="431" />
+      </list>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/application/View.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="65" column="13" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
+              <folding>
+                <element signature="e#12692#20546#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tests/PointTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1600">
+              <caret line="50" selection-start-line="50" selection-end-line="50" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/documents/javadoc/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="448">
+              <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/application/Account.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+              <folding>
+                <element signature="e#1055#1056#0" expanded="true" />
+                <element signature="e#1073#1074#0" expanded="true" />
+                <element signature="e#1192#1193#0" expanded="true" />
+                <element signature="e#1210#1211#0" expanded="true" />
+                <element signature="e#1332#1333#0" expanded="true" />
+                <element signature="e#1354#1355#0" expanded="true" />
+                <element signature="e#1667#1668#0" expanded="true" />
+                <element signature="e#1729#1730#0" expanded="true" />
+                <element signature="e#1871#1872#0" expanded="true" />
+                <element signature="e#1963#1964#0" expanded="true" />
+                <element signature="e#2490#2491#0" expanded="true" />
+                <element signature="e#2539#2540#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/application/AccountCollection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7328">
+              <caret line="229" selection-start-line="229" selection-end-line="229" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1579#1580#0" expanded="true" />
+                <element signature="e#1627#1628#0" expanded="true" />
+                <element signature="e#2135#2136#0" expanded="true" />
+                <element signature="e#2173#2174#0" expanded="true" />
+                <element signature="e#2374#2375#0" expanded="true" />
+                <element signature="e#2412#2413#0" expanded="true" />
+                <element signature="e#2608#2609#0" expanded="true" />
+                <element signature="e#2659#2660#0" expanded="true" />
+                <element signature="e#4797#4798#0" expanded="true" />
+                <element signature="e#4839#4840#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/application/Queue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3232">
+              <caret line="103" selection-start-line="103" selection-end-line="103" />
+              <folding>
+                <element signature="e#245#246#0" expanded="true" />
+                <element signature="e#302#303#0" expanded="true" />
+                <element signature="e#1380#1381#0" expanded="true" />
+                <element signature="e#1426#1427#0" expanded="true" />
+                <element signature="e#1835#1836#0" expanded="true" />
+                <element signature="e#1867#1868#0" expanded="true" />
+                <element signature="e#2037#2038#0" expanded="true" />
+                <element signature="e#2078#2079#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/application/Point.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="20" selection-start-column="20" selection-end-column="20" />
+              <folding>
+                <element signature="e#637#638#0" expanded="true" />
+                <element signature="e#690#691#0" expanded="true" />
+                <element signature="e#887#888#0" expanded="true" />
+                <element signature="e#967#968#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tests/AccountCollectionTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="768">
+              <caret line="24" column="65" selection-start-line="24" selection-start-column="65" selection-end-line="24" selection-end-column="65" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/application/SnakeBoard.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2272">
+              <caret line="71" column="7" selection-start-line="71" selection-start-column="7" selection-end-line="71" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#4643#4644#0" expanded="true" />
+                <element signature="e#4676#4677#0" expanded="true" />
+                <element signature="e#4904#4905#0" expanded="true" />
+                <element signature="e#4985#4986#0" expanded="true" />
+                <element signature="e#5132#5133#0" expanded="true" />
+                <element signature="e#5176#5177#0" expanded="true" />
+                <element signature="e#5296#5297#0" expanded="true" />
+                <element signature="e#5329#5330#0" expanded="true" />
+                <element signature="e#5537#5538#0" expanded="true" />
+                <element signature="e#5582#5583#0" expanded="true" />
+                <element signature="e#5734#5735#0" expanded="true" />
+                <element signature="e#5763#5764#0" expanded="true" />
+                <element signature="e#5916#5917#0" expanded="true" />
+                <element signature="e#5946#5947#0" expanded="true" />
+                <element signature="e#6088#6089#0" expanded="true" />
+                <element signature="e#6119#6120#0" expanded="true" />
+                <element signature="e#6284#6285#0" expanded="true" />
+                <element signature="e#6320#6321#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="HTML">
+      <summary usageCount="8" lastUsed="1714601128462" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="86" lastUsed="1714601128541" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>animat</find>
+      <find>animation</find>
+      <find>an</find>
+      <find>updateFrame</find>
+      <find>gameT</find>
+      <find>playButton</find>
+      <find>system.</find>
+      <find>pushEnd</find>
+      <find>start</find>
+      <find>snake.png</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="GitBranchesPopupTreeState">
+    <expand>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="RECENT" type="baf65d7a:GitBranchesTreeModel$RecentNode" />
+      </path>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="REMOTE" type="ae103dac:GitBranchType" />
+      </path>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="REMOTE" type="ae103dac:GitBranchType" />
+        <item name="REMOTE/[origin]" type="f52d67ed:GitBranchesTreeModel$BranchesPrefixGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/application/Account.java" />
+      <option value="$PROJECT_DIR$/src/application/AccountCollection.java" />
+      <option value="$PROJECT_DIR$/src/application/Queue.java" />
+      <option value="$PROJECT_DIR$/src/application/Point.java" />
+      <option value="$PROJECT_DIR$/src/tests/AccountCollectionTest.java" />
+      <option value="$PROJECT_DIR$/src/tests/PointTest.java" />
+      <option value="$PROJECT_DIR$/src/application/SnakeBoard.java" />
+      <option value="$PROJECT_DIR$/src/application/View.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="HTML">
+      <summary usageCount="8" lastUsage="1714601128462" />
+    </language>
+    <language id="JAVA">
+      <summary usageCount="86" lastUsage="1714601128541" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="empty-repo-ethancoreytharidandrew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/andrew/Desktop/snake/empty-repo-ethancoreytharidandrew}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="empty-repo-ethancoreytharidandrew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/andrew/Desktop/snake/empty-repo-ethancoreytharidandrew}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/andrew/Desktop/snake/empty-repo-ethancoreytharidandrew/documents}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="empty-repo-ethancoreytharidandrew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/andrew/Desktop/snake/empty-repo-ethancoreytharidandrew}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/andrew/Desktop/snake/empty-repo-ethancoreytharidandrew/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="empty-repo-ethancoreytharidandrew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/andrew/Desktop/snake/empty-repo-ethancoreytharidandrew}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/andrew/Desktop/snake/empty-repo-ethancoreytharidandrew/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/andrew/Desktop/snake/empty-repo-ethancoreytharidandrew/src/application}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="empty-repo-ethancoreytharidandrew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/andrew/Desktop/snake/empty-repo-ethancoreytharidandrew}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/andrew/Desktop/snake/empty-repo-ethancoreytharidandrew/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/andrew/Desktop/snake/empty-repo-ethancoreytharidandrew/src/tests}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Application.View" />
+      <element setting="JUnit.PointTest.testQueue" />
+      <element setting="JUnit.PointTest" />
+      <element setting="JUnit.PointTest.testPoint" />
+    </history>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="PointTest - 2024.04.10 at 14h 58m 46s.xml">
+      <configuration name="PointTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PointTest - 2024.04.10 at 14h 59m 30s.xml">
+      <configuration name="PointTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PointTest - 2024.04.10 at 14h 59m 47s.xml">
+      <configuration name="PointTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PointTest - 2024.04.10 at 14h 59m 48s.xml">
+      <configuration name="PointTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PointTest_testQueue - 2024.04.10 at 15h 00m 57s.xml">
+      <configuration name="PointTest.testQueue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PointTest_testQueue - 2024.04.10 at 15h 01m 33s.xml">
+      <configuration name="PointTest.testQueue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PointTest_testQueue - 2024.04.10 at 15h 01m 49s.xml">
+      <configuration name="PointTest.testQueue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PointTest_testQueue - 2024.04.10 at 15h 03m 02s.xml">
+      <configuration name="PointTest.testQueue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PointTest_testQueue - 2024.04.10 at 15h 03m 31s.xml">
+      <configuration name="PointTest.testQueue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PointTest_testQueue - 2024.04.10 at 15h 03m 52s.xml">
+      <configuration name="PointTest.testQueue" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7577000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Pull Requests" sideWeight="0.50072885" weight="0.27509207" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.27509207" />
+      <window_info id="Commit" order="1" weight="0.27509207" />
+      <window_info active="true" id="Structure" order="2" sideWeight="0.49927115" side_tool="true" visible="true" weight="0.27509207" />
+      <window_info anchor="bottom" id="Find" weight="0.033163264" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.4180029" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.033163264" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.4180029" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="bottom" id="Build" order="6" weight="0.3298105" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4180029" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" visible="true" weight="0.4219613" />
+      <unified_weights bottom="0.4180029" left="0.27509207" right="0.4219613" />
+    </layoutV2>
+    <recentWindows>
+      <value>Version Control</value>
+      <value>Run</value>
+      <value>Structure</value>
+      <value>Pull Requests</value>
+      <value>Debug</value>
+      <value>Commit</value>
+      <value>Project</value>
+      <value>Problems View</value>
+      <value>Find</value>
+      <value>Coverage</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="728" y="318" width="1101" height="919" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1713997732893">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="728" y="318" width="1101" height="919" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2256.1504@0.0.2256.1504" timestamp="1713997732893" />
+    <state x="885" y="476" width="791" height="606" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1712786085533">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="885" y="476" width="791" height="606" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.2256.1504@0.0.2256.1504" timestamp="1712786085533" />
+    <state x="735" y="423" width="790" height="710" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1713389100850">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="735" y="423" width="790" height="710" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2256.1504@0.0.2256.1504" timestamp="1713389100850" />
+    <state x="768" y="439" width="837" height="686" key="FileChooserDialogImpl" timestamp="1713389676074">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="768" y="439" width="837" height="686" key="FileChooserDialogImpl/0.0.2256.1504@0.0.2256.1504" timestamp="1713389676074" />
+    <state width="2048" height="510" key="GridCell.Tab.0.bottom" timestamp="1714601115101">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="2048" height="510" key="GridCell.Tab.0.bottom/0.0.2256.1504@0.0.2256.1504" timestamp="1714601115101" />
+    <state width="2048" height="510" key="GridCell.Tab.0.center" timestamp="1714601115101">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="2048" height="510" key="GridCell.Tab.0.center/0.0.2256.1504@0.0.2256.1504" timestamp="1714601115101" />
+    <state width="2048" height="510" key="GridCell.Tab.0.left" timestamp="1714601115100">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="2048" height="510" key="GridCell.Tab.0.left/0.0.2256.1504@0.0.2256.1504" timestamp="1714601115100" />
+    <state width="2048" height="510" key="GridCell.Tab.0.right" timestamp="1714601115101">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="2048" height="510" key="GridCell.Tab.0.right/0.0.2256.1504@0.0.2256.1504" timestamp="1714601115101" />
+    <state width="2048" height="510" key="GridCell.Tab.1.bottom" timestamp="1714600932208">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="2048" height="510" key="GridCell.Tab.1.bottom/0.0.2256.1504@0.0.2256.1504" timestamp="1714600932208" />
+    <state width="2048" height="510" key="GridCell.Tab.1.center" timestamp="1714600932208">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="2048" height="510" key="GridCell.Tab.1.center/0.0.2256.1504@0.0.2256.1504" timestamp="1714600932208" />
+    <state width="2048" height="510" key="GridCell.Tab.1.left" timestamp="1714600932208">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="2048" height="510" key="GridCell.Tab.1.left/0.0.2256.1504@0.0.2256.1504" timestamp="1714600932208" />
+    <state width="2048" height="510" key="GridCell.Tab.1.right" timestamp="1714600932208">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="2048" height="510" key="GridCell.Tab.1.right/0.0.2256.1504@0.0.2256.1504" timestamp="1714600932208" />
+    <state x="844" y="386" width="572" height="783" key="RollbackChangesDialog" timestamp="1713389057848">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="844" y="386" width="572" height="783" key="RollbackChangesDialog/0.0.2256.1504@0.0.2256.1504" timestamp="1713389057848" />
+    <state x="528" y="402" width="1204" height="752" key="Vcs.Push.Dialog.v2" timestamp="1713998702311">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="528" y="402" width="1204" height="752" key="Vcs.Push.Dialog.v2/0.0.2256.1504@0.0.2256.1504" timestamp="1713998702311" />
+    <state x="676" y="647" width="907" height="262" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1712785124001">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="676" y="647" width="907" height="262" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.2256.1504@0.0.2256.1504" timestamp="1712785124001" />
+    <state x="835" y="680" width="590" height="195" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1713998554800">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="835" y="680" width="590" height="195" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2256.1504@0.0.2256.1504" timestamp="1713998554800" />
+    <state x="764" y="376" width="731" height="804" key="git4idea.branch.GitSmartOperationDialog" timestamp="1714601029107">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="764" y="376" width="731" height="804" key="git4idea.branch.GitSmartOperationDialog/0.0.2256.1504@0.0.2256.1504" timestamp="1714601029107" />
+    <state x="621" y="355" key="run.anything.popup" timestamp="1712784062903">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="621" y="355" key="run.anything.popup/0.0.2256.1504@0.0.2256.1504" timestamp="1712784062903" />
+    <state x="530" y="294" width="1204" height="976" key="scopes" timestamp="1713389267202">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="530" y="294" width="1204" height="976" key="scopes/0.0.2256.1504@0.0.2256.1504" timestamp="1713389267202" />
+    <state x="621" y="12" width="1023" height="1514" key="search.everywhere.popup" timestamp="1712785379969">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="621" y="12" width="1023" height="1514" key="search.everywhere.popup/0.0.2256.1504@0.0.2256.1504" timestamp="1712785379969" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/java/lang/invoke/LambdaForm.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/application/GameManager.java" />
+    <entry file="file://$PROJECT_DIR$/src/tests/PointTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1600">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documents/javadoc/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/application/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#1055#1056#0" expanded="true" />
+            <element signature="e#1073#1074#0" expanded="true" />
+            <element signature="e#1192#1193#0" expanded="true" />
+            <element signature="e#1210#1211#0" expanded="true" />
+            <element signature="e#1332#1333#0" expanded="true" />
+            <element signature="e#1354#1355#0" expanded="true" />
+            <element signature="e#1667#1668#0" expanded="true" />
+            <element signature="e#1729#1730#0" expanded="true" />
+            <element signature="e#1871#1872#0" expanded="true" />
+            <element signature="e#1963#1964#0" expanded="true" />
+            <element signature="e#2490#2491#0" expanded="true" />
+            <element signature="e#2539#2540#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/application/AccountCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7328">
+          <caret line="229" selection-start-line="229" selection-end-line="229" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1579#1580#0" expanded="true" />
+            <element signature="e#1627#1628#0" expanded="true" />
+            <element signature="e#2135#2136#0" expanded="true" />
+            <element signature="e#2173#2174#0" expanded="true" />
+            <element signature="e#2374#2375#0" expanded="true" />
+            <element signature="e#2412#2413#0" expanded="true" />
+            <element signature="e#2608#2609#0" expanded="true" />
+            <element signature="e#2659#2660#0" expanded="true" />
+            <element signature="e#4797#4798#0" expanded="true" />
+            <element signature="e#4839#4840#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/application/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3232">
+          <caret line="103" selection-start-line="103" selection-end-line="103" />
+          <folding>
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#1380#1381#0" expanded="true" />
+            <element signature="e#1426#1427#0" expanded="true" />
+            <element signature="e#1835#1836#0" expanded="true" />
+            <element signature="e#1867#1868#0" expanded="true" />
+            <element signature="e#2037#2038#0" expanded="true" />
+            <element signature="e#2078#2079#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/application/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+          <folding>
+            <element signature="e#637#638#0" expanded="true" />
+            <element signature="e#690#691#0" expanded="true" />
+            <element signature="e#887#888#0" expanded="true" />
+            <element signature="e#967#968#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tests/AccountCollectionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="24" column="65" selection-start-line="24" selection-start-column="65" selection-end-line="24" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/application/SnakeBoard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2272">
+          <caret line="71" column="7" selection-start-line="71" selection-start-column="7" selection-end-line="71" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4643#4644#0" expanded="true" />
+            <element signature="e#4676#4677#0" expanded="true" />
+            <element signature="e#4904#4905#0" expanded="true" />
+            <element signature="e#4985#4986#0" expanded="true" />
+            <element signature="e#5132#5133#0" expanded="true" />
+            <element signature="e#5176#5177#0" expanded="true" />
+            <element signature="e#5296#5297#0" expanded="true" />
+            <element signature="e#5329#5330#0" expanded="true" />
+            <element signature="e#5537#5538#0" expanded="true" />
+            <element signature="e#5582#5583#0" expanded="true" />
+            <element signature="e#5734#5735#0" expanded="true" />
+            <element signature="e#5763#5764#0" expanded="true" />
+            <element signature="e#5916#5917#0" expanded="true" />
+            <element signature="e#5946#5947#0" expanded="true" />
+            <element signature="e#6088#6089#0" expanded="true" />
+            <element signature="e#6119#6120#0" expanded="true" />
+            <element signature="e#6284#6285#0" expanded="true" />
+            <element signature="e#6320#6321#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/application/View.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="65" column="13" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
+          <folding>
+            <element signature="e#12692#20546#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

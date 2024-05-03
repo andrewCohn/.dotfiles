@@ -1,3 +1,6 @@
-
 [Default Applications]
 x-scheme-handler/jetbrains=jetbrains-toolbox.desktop
+application/pdf=okularApplication_pdf.desktop
+
+[Added Associations]
+application/pdf=okularApplication_pdf.desktop;

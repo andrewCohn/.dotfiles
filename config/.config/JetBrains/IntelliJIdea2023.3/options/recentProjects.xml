@@ -1,0 +1,92 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Desktop/jukebox-andrewtharid">
+          <value>
+            <RecentProjectMetaInfo frameTitle="jukebox-andrewtharid – PlayAnMP3.java" projectWorkspaceId="2deTyN1c9hXE4WQ0cQdzEdSvi11">
+              <option name="activationTimestamp" value="1710632712636" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-233.14475.28" />
+              <option name="buildTimestamp" value="1707800520000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="40" y="88" width="2176" height="1376" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1710367798631" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/.dotfiles">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/345PA3">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2dn8va1C1BnpgJ74svRiBegH8DZ">
+              <option name="activationTimestamp" value="1711329752340" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-233.14475.28" />
+              <option name="buildTimestamp" value="1707800520000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1710632713052" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/TicTacToe335">
+          <value>
+            <RecentProjectMetaInfo frameTitle="TicTacToe335 – consoleView.java" projectWorkspaceId="2eW1WR10DiNBUNXCstIQkinEizd">
+              <option name="activationTimestamp" value="1712183137049" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="40" y="88" width="2176" height="1376" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/TicTacToeMiniMax">
+          <value>
+            <RecentProjectMetaInfo frameTitle="TicTacToeMiniMax – consoleLight.java" projectWorkspaceId="2ehKKlbKXwcqzngWOgQA2VjVR3C">
+              <option name="activationTimestamp" value="1713389915911" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-233.14475.28" />
+              <option name="buildTimestamp" value="1707800520000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="40" y="88" width="2176" height="1376" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1713389798660" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/snake/empty-repo-ethancoreytharidandrew">
+          <value>
+            <RecentProjectMetaInfo frameTitle="empty-repo-ethancoreytharidandrew – SnakeBoard.java" opened="true" projectWorkspaceId="2ebpTIp8uN6KMDjKSpf7bftsxWd">
+              <option name="activationTimestamp" value="1714601106054" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-233.14475.28" />
+              <option name="buildTimestamp" value="1707800520000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="40" y="88" width="2176" height="1376" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1713389916230" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/Desktop/snake/empty-repo-ethancoreytharidandrew" />
+  </component>
+</application>

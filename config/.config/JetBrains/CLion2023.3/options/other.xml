@@ -1,0 +1,30 @@
+<application>
+  <component name="NotRoamableUiSettings">
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "bundled.plugins.list.saved.version": "CL-233.14475.31",
+    "evlsprt3.233": "6",
+    "experimental.ui.used.version": "233.14475.31",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "19.5",
+    "fontSizeToResetEditor": "19.5",
+    "input.method.disabler.muted": "true",
+    "previousColorScheme": "_@user_Dark"
+  },
+  "keyToStringList": {
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.jetbrains.cidr.lang.OCHeaderFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

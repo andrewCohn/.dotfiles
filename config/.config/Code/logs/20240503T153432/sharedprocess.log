@@ -1,0 +1,27 @@
+2024-05-03 15:34:34.162 [error] [uncaught exception in sharedProcess]: Event not found: onDidChange: CodeExpectedError: Event not found: onDidChange
+    at Object.listen (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:45:4960)
+    at E.t (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:44:251)
+    at E.q (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:4371)
+    at y.value (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:3602)
+    at d.y (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1902)
+    at d.z (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1972)
+    at d.fire (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:2188)
+    at MessagePortMain.fe (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:36:30382)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.emit (node:electron/js2c/utility_init:2:2285)
+2024-05-03 15:34:37.847 [info] Getting Manifest... ms-python.debugpy
+2024-05-03 15:34:38.017 [info] Installing extension: ms-python.debugpy
+2024-05-03 15:34:39.203 [info] Getting Manifest... ms-python.python
+2024-05-03 15:34:41.948 [warning] Extension signature verification failed with error 'UnknownError': ms-python.debugpy
+2024-05-03 15:34:42.143 [info] Extracted extension to file:///home/andrew/.vscode/extensions/ms-python.debugpy-2024.6.0-linux-x64: ms-python.debugpy
+2024-05-03 15:34:42.144 [info] Renamed to /home/andrew/.vscode/extensions/ms-python.debugpy-2024.6.0-linux-x64
+2024-05-03 15:34:42.145 [info] Extracting extension completed. ms-python.debugpy
+2024-05-03 15:34:42.150 [info] Extension installed successfully: ms-python.debugpy
+2024-05-03 15:34:42.153 [info] Marked extension as uninstalled ms-python.debugpy-2024.4.0-linux-x64
+2024-05-03 15:34:42.225 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/andrew/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/andrew/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)

@@ -2,9 +2,10 @@
   "IS_MAXIMIZED": false,
   "IS_MINIMIZED": false,
   "WINDOW_BOUNDS": {
-    "x": 766,
-    "y": 70,
-    "width": 941,
-    "height": 905
-  }
+    "x": 28,
+    "y": 60,
+    "width": 1448,
+    "height": 915
+  },
+  "chromiumSwitches": {}
 }

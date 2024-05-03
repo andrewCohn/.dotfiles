@@ -6,16 +6,19 @@ LockSidebar=true
 ShowSidebar=true
 
 [MainWindow]
-1504x1003 screen: Height=904
-1504x1003 screen: Width=709
-1504x1003 screen: XPosition=767
-1504x1003 screen: YPosition=71
-State=AAAA/wAAAAD9AAAAAQAAAAAAAADIAAADTfwCAAAAAfsAAAAcAG8AawB1AGwAYQByAF8AcwBpAGQAZQBiAGEAcgEAAAA7AAADTQAAAOoA///+AAAB9wAAA00AAAAEAAAABAAAAAgAAAAI/AAAAAMAAAABAAAAAQAAACwAcQB1AGkAYwBrAEEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgIAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+1504x1003 screen: Height=1003
+1504x1003 screen: Width=1504
+1504x1003 screen: XPosition=0
+1504x1003 screen: YPosition=0
+MenuBar=Disabled
+RestorePositionForNextInstance=false
 ToolBarsMovable=Disabled
 eDP-1=eDP-1
 
 [Recent Files]
 File1[$e]=$HOME/Downloads/Kodoku.pdf
 File2[$e]=$HOME/Downloads/pfetch-0.6.0/README.md
+File3[$e]=$HOME/Downloads/Project/Project/Project Description.pdf
 Name1[$e]=Kodoku.pdf
 Name2[$e]=README.md
+Name3[$e]=Project Description.pdf

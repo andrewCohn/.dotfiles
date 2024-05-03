@@ -1,0 +1,21 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/Desktop/345PA3" value="true" />
+        <entry key="$USER_HOME$/Desktop/jukebox-andrewtharid" value="true" />
+        <entry key="$USER_HOME$/Desktop/snake/empty-repo-ethancoreytharidandrew" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/TicTacToe335" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/TicTacToeMiniMax" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Desktop" />
+        <option value="$USER_HOME$/IdeaProjects" />
+      </list>
+    </option>
+  </component>
+</application>

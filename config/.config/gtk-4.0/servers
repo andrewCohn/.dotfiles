@@ -3,12 +3,32 @@
       xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
       xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
 >
-  <bookmark href="smb://andy.server/sambashare/" added="2024-03-02T03:31:58.721778Z" modified="2024-03-02T03:31:58.721787Z" visited="2024-03-02T03:31:58.721780Z">
+  <bookmark href="smb://andy.server/sambashare/" added="2024-03-02T03:31:58.721778Z" modified="2024-04-16T18:38:29.940945Z" visited="2024-04-16T18:38:29.940940Z">
     <title>sambashare on andy.server</title>
     <info>
       <metadata owner="http://freedesktop.org">
         <bookmark:applications>
-          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-03-02T03:31:58.721783Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-04-16T18:38:29.940943Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="sftp://ajcohn716@lectura/" added="2024-03-16T23:38:21.114744Z" modified="2024-03-16T23:38:21.114749Z" visited="2024-03-16T23:38:21.114745Z">
+    <title>/ on lectura</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-03-16T23:38:21.114747Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="smb://11.0.0.1/sambashare/" added="2024-04-16T18:42:43.738947Z" modified="2024-04-16T18:42:43.738955Z" visited="2024-04-16T18:42:43.738948Z">
+    <title>sambashare on 11.0.0.1</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-04-16T18:42:43.738951Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

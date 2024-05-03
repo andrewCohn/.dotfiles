@@ -1,0 +1,10 @@
+2024-04-29 15:06:36.368 [error] electron #3: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CONNECTION_REFUSED
+2024-04-29 15:06:38.496 [error] electron #5: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CONNECTION_REFUSED
+2024-04-29 15:06:39.129 [error] electron #6: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CONNECTION_REFUSED
+2024-04-29 15:06:41.595 [error] electron #7: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CONNECTION_REFUSED
+2024-04-29 15:06:54.425 [error] electron #8: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CONNECTION_REFUSED
+2024-04-29 15:06:56.895 [error] electron #9: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CONNECTION_REFUSED
+2024-04-29 15:07:23.964 [error] electron #11: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CONNECTION_REFUSED
+2024-04-29 15:07:26.815 [error] electron #12: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CONNECTION_REFUSED
+2024-04-29 15:08:20.734 [error] electron #13: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CONNECTION_REFUSED
+2024-04-29 15:08:23.713 [error] electron #14: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CONNECTION_REFUSED

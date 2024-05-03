@@ -1,5 +1,0 @@
-2024-03-04 15:24:55.408 [info] update#setState idle
-2024-03-04 15:25:25.451 [info] update#setState checking for updates
-2024-03-04 15:25:25.518 [info] update#setState idle
-2024-03-04 15:27:15.000 [info] Extension host with pid 11655 exited with code: 15, signal: unknown.
-2024-03-04 15:27:15.000 [error] [UtilityProcess id: 1, type: extensionHost, pid: 11655]: crashed with code 15 and reason 'killed'

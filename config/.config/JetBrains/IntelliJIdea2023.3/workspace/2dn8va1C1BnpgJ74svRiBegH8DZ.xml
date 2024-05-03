@@ -1,0 +1,324 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="345PA3" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Array.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="608">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ArrayGen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="54" column="29" selection-start-line="54" selection-start-column="29" selection-end-line="54" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/Sort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="140" selection-start-line="140" selection-end-line="140" />
+              <folding>
+                <element signature="e#1480#1481#0" expanded="true" />
+                <element signature="e#1540#1541#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SortTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="73" column="12" selection-start-line="73" selection-start-column="12" selection-end-line="73" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="JAVA">
+      <summary usageCount="24" lastUsed="1711325805103" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sub</find>
+      <find>toString</find>
+      <find>system.out.print</find>
+      <find>merge</find>
+      <find>get(</find>
+      <find>set(</find>
+      <find>et(</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>getVal(</replace>
+      <replace>setVal(</replace>
+      <replace>etVal(</replace>
+    </replaceStrings>
+  </component>
+  <component name="GitBranchesPopupTreeState">
+    <expand>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="LOCAL" type="ae103dac:GitBranchType" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/ArrayGen.java" />
+      <option value="$PROJECT_DIR$/Array.java" />
+      <option value="$PROJECT_DIR$/SortTest.java" />
+      <option value="$PROJECT_DIR$/Sort.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$" />
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="24" lastUsage="1711325805103" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="345PA3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/andrew/Desktop/345PA3}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="JUnit.SortTest.testThreeWayMerge" />
+      <element setting="JUnit.SortTest" />
+      <element setting="JUnit.SortTest.testBubbleSort" />
+      <element setting="JUnit.SortTest.testIsSorted" />
+      <element setting="JUnit.SortTest.testInsertMerge" />
+      <element setting="JUnit.SortTest.testIterativeMerge" />
+      <element setting="JUnit.SortTest.testIterative" />
+    </history>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="SortTest_testThreeWayMerge - 2024.03.24 at 18h 13m 41s.xml">
+      <configuration name="SortTest.testThreeWayMerge" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortTest_testThreeWayMerge - 2024.03.24 at 18h 15m 43s.xml">
+      <configuration name="SortTest.testThreeWayMerge" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortTest_testThreeWayMerge - 2024.03.24 at 18h 19m 44s.xml">
+      <configuration name="SortTest.testThreeWayMerge" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortTest_testThreeWayMerge - 2024.03.24 at 18h 20m 47s.xml">
+      <configuration name="SortTest.testThreeWayMerge" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortTest_testThreeWayMerge - 2024.03.24 at 18h 20m 53s.xml">
+      <configuration name="SortTest.testThreeWayMerge" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortTest_testThreeWayMerge - 2024.03.24 at 18h 20m 56s.xml">
+      <configuration name="SortTest.testThreeWayMerge" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortTest_testThreeWayMerge - 2024.03.24 at 18h 21m 00s.xml">
+      <configuration name="SortTest.testThreeWayMerge" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortTest_testThreeWayMerge - 2024.03.24 at 18h 22m 52s.xml">
+      <configuration name="SortTest.testThreeWayMerge" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortTest_testThreeWayMerge - 2024.03.24 at 18h 22m 56s.xml">
+      <configuration name="SortTest.testThreeWayMerge" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortTest_testThreeWayMerge - 2024.03.24 at 18h 24m 32s.xml">
+      <configuration name="SortTest.testThreeWayMerge" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="16119000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Bookmarks" side_tool="true" weight="0.3294173" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.3294173" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.3298105" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="bottom" id="Build" order="6" weight="0.3298105" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.3298105" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="4" side_tool="true" />
+      <unified_weights bottom="0.3298105" left="0.3294173" />
+    </layoutV2>
+    <recentWindows>
+      <value>Run</value>
+      <value>Debug</value>
+      <value>Project</value>
+      <value>Bookmarks</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="735" y="547" width="790" height="461" key="Github.ShareDialog" timestamp="1711325848547">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="735" y="547" width="790" height="461" key="Github.ShareDialog/0.0.2256.1504@0.0.2256.1504" timestamp="1711325848547" />
+    <state x="846" y="365" width="567" height="825" key="Github.UntrackedFilesDialog" timestamp="1711325864351">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="846" y="365" width="567" height="825" key="Github.UntrackedFilesDialog/0.0.2256.1504@0.0.2256.1504" timestamp="1711325864351" />
+    <state width="2048" height="389" key="GridCell.Tab.0.bottom" timestamp="1711329872703">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="2048" height="389" key="GridCell.Tab.0.bottom/0.0.2256.1504@0.0.2256.1504" timestamp="1711329872703" />
+    <state width="2048" height="389" key="GridCell.Tab.0.center" timestamp="1711329872703">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="2048" height="389" key="GridCell.Tab.0.center/0.0.2256.1504@0.0.2256.1504" timestamp="1711329872703" />
+    <state width="2048" height="389" key="GridCell.Tab.0.left" timestamp="1711329872703">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="2048" height="389" key="GridCell.Tab.0.left/0.0.2256.1504@0.0.2256.1504" timestamp="1711329872703" />
+    <state width="2048" height="389" key="GridCell.Tab.0.right" timestamp="1711329872703">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="2048" height="389" key="GridCell.Tab.0.right/0.0.2256.1504@0.0.2256.1504" timestamp="1711329872703" />
+    <state width="2048" height="389" key="GridCell.Tab.1.bottom" timestamp="1711329647227">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="2048" height="389" key="GridCell.Tab.1.bottom/0.0.2256.1504@0.0.2256.1504" timestamp="1711329647227" />
+    <state width="2048" height="389" key="GridCell.Tab.1.center" timestamp="1711329647227">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="2048" height="389" key="GridCell.Tab.1.center/0.0.2256.1504@0.0.2256.1504" timestamp="1711329647227" />
+    <state width="2048" height="389" key="GridCell.Tab.1.left" timestamp="1711329647227">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="2048" height="389" key="GridCell.Tab.1.left/0.0.2256.1504@0.0.2256.1504" timestamp="1711329647227" />
+    <state width="2048" height="389" key="GridCell.Tab.1.right" timestamp="1711329647227">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="2048" height="389" key="GridCell.Tab.1.right/0.0.2256.1504@0.0.2256.1504" timestamp="1711329647227" />
+    <state x="122" y="647" width="907" height="262" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1710635640106">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="122" y="647" width="907" height="262" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.2256.1504@0.0.2256.1504" timestamp="1710635640106" />
+    <state x="621" y="355" key="run.anything.popup" timestamp="1711327550194">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="621" y="355" key="run.anything.popup/0.0.2256.1504@0.0.2256.1504" timestamp="1711327550194" />
+    <state x="621" y="12" width="1023" height="1514" key="search.everywhere.popup" timestamp="1711327362423">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="621" y="12" width="1023" height="1514" key="search.everywhere.popup/0.0.2256.1504@0.0.2256.1504" timestamp="1711327362423" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArrayGen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="54" column="29" selection-start-line="54" selection-start-column="29" selection-end-line="54" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="73" column="12" selection-start-line="73" selection-start-column="12" selection-end-line="73" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="140" selection-start-line="140" selection-end-line="140" />
+          <folding>
+            <element signature="e#1480#1481#0" expanded="true" />
+            <element signature="e#1540#1541#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

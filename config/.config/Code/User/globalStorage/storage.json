@@ -82,111 +82,111 @@
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/andrew/.config/awesome/rc.lua",
-                                        "path": "/home/andrew/.config/awesome/rc.lua",
+                                        "external": "file:///home/andrew/.config/kitty/midnight/midnight.conf",
+                                        "path": "/home/andrew/.config/kitty/midnight/midnight.conf",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/.config/awesome/rc.lua"
+                                    "label": "~/.config/kitty/midnight/midnight.conf"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/andrew/cats.txt",
-                                        "path": "/home/andrew/cats.txt",
+                                        "external": "file:///home/andrew/.config/kitty/midnight/mocha.conf",
+                                        "path": "/home/andrew/.config/kitty/midnight/mocha.conf",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/cats.txt"
+                                    "label": "~/.config/kitty/midnight/mocha.conf"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/andrew/rei.txt",
-                                        "path": "/home/andrew/rei.txt",
+                                        "external": "file:///home/andrew/.profile",
+                                        "path": "/home/andrew/.profile",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/rei.txt"
+                                    "label": "~/.profile"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/andrew/.zshrc",
-                                        "path": "/home/andrew/.zshrc",
+                                        "external": "file:///home/andrew/.config/gtk-4.0/settings.ini",
+                                        "path": "/home/andrew/.config/gtk-4.0/settings.ini",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/.zshrc"
+                                    "label": "~/.config/gtk-4.0/settings.ini"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/andrew/.config/kitty/kitty.conf",
-                                        "path": "/home/andrew/.config/kitty/kitty.conf",
+                                        "external": "file:///home/andrew/Downloads/asm5.s",
+                                        "path": "/home/andrew/Downloads/asm5.s",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/.config/kitty/kitty.conf"
+                                    "label": "~/Downloads/asm5.s"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/andrew/.dotfiles/config/.config/awesome/rc.lua",
-                                        "path": "/home/andrew/.dotfiles/config/.config/awesome/rc.lua",
+                                        "external": "file:///home/andrew/Desktop/asm5/test_03.s",
+                                        "path": "/home/andrew/Desktop/asm5/test_03.s",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/.dotfiles/config/.config/awesome/rc.lua"
+                                    "label": "~/Desktop/asm5/test_03.s"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/andrew/.dotfiles/config/.config/polybar/config.ini",
-                                        "path": "/home/andrew/.dotfiles/config/.config/polybar/config.ini",
+                                        "external": "file:///home/andrew/Downloads/message.txt",
+                                        "path": "/home/andrew/Downloads/message.txt",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/.dotfiles/config/.config/polybar/config.ini"
+                                    "label": "~/Downloads/message.txt"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/andrew/.config/picom/picom.conf",
-                                        "path": "/home/andrew/.config/picom/picom.conf",
+                                        "external": "file:///home/andrew/backup.sh",
+                                        "path": "/home/andrew/backup.sh",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/.config/picom/picom.conf"
+                                    "label": "~/backup.sh"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/andrew/.dotfiles/config/.config/sway/config",
-                                        "path": "/home/andrew/.dotfiles/config/.config/sway/config",
+                                        "external": "file:///home/andrew/.scripts/quotes/quotes",
+                                        "path": "/home/andrew/.scripts/quotes/quotes",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/.dotfiles/config/.config/sway/config"
+                                    "label": "~/.scripts/quotes/quotes"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/andrew/dotfiles/readme.md",
-                                        "path": "/home/andrew/dotfiles/readme.md",
+                                        "external": "file:///home/andrew/.config/polybar/scripts/test.sh",
+                                        "path": "/home/andrew/.config/polybar/scripts/test.sh",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/dotfiles/readme.md"
+                                    "label": "~/.config/polybar/scripts/test.sh"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -233,7 +233,8 @@
                     },
                     {
                         "id": "saveAll",
-                        "label": "Save A&&ll"
+                        "label": "Save A&&ll",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -892,8 +893,7 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back",
-                        "enabled": false
+                        "label": "&&Back"
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -902,8 +902,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"

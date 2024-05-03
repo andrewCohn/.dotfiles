@@ -1,0 +1,404 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="TicTacToeMiniMax" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="2147483647">
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/views_controllers/consoleLight.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4">
+              <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/model/GameTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3808">
+              <caret line="119" selection-start-line="119" selection-end-line="119" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tests/testDidWinTie.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="832">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tests/MinimaxTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="960">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.jdks/corretto-19.0.2/lib/src.zip!/java.base/java/io/FileInputStream.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3522">
+              <caret line="251" column="23" selection-start-line="251" selection-start-column="23" selection-end-line="251" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="GitIgnore file">
+      <summary usageCount="7" lastUsed="1713389798643" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="68" lastUsed="1713389798621" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>static</find>
+      <find>OurPoint</find>
+      <find>iGotNow</find>
+      <find>didWin</find>
+      <find>setBoard</find>
+      <find>isOver</find>
+      <find>x</find>
+      <find>Node root</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Point</replace>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="GitBranchesPopupTreeState">
+    <expand>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="RECENT" type="baf65d7a:GitBranchesTreeModel$RecentNode" />
+      </path>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="LOCAL" type="ae103dac:GitBranchType" />
+      </path>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="REMOTE" type="ae103dac:GitBranchType" />
+      </path>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="REMOTE" type="ae103dac:GitBranchType" />
+        <item name="REMOTE/[origin]" type="f52d67ed:GitBranchesTreeModel$BranchesPrefixGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/model/Point.java" />
+      <option value="$PROJECT_DIR$/src/model/IntermediateAI.java" />
+      <option value="$PROJECT_DIR$/src/model/TicTacToeStrategy.java" />
+      <option value="$PROJECT_DIR$/src/model/RandomAI.java" />
+      <option value="$PROJECT_DIR$/src/model/ComputerPlayer.java" />
+      <option value="$PROJECT_DIR$/src/model/TicTacToeGame.java" />
+      <option value="$PROJECT_DIR$/src/model/MiniMaxer.java" />
+      <option value="$PROJECT_DIR$/src/model/TTTGame.java" />
+      <option value="$PROJECT_DIR$/src/views_controllers/consoleLight.java" />
+      <option value="$PROJECT_DIR$/src/tests/testDidWinTie.java" />
+      <option value="$PROJECT_DIR$/src/model/GameTree.java" />
+      <option value="$PROJECT_DIR$/src/tests/MinimaxTest.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="GitIgnore">
+      <summary usageCount="7" lastUsage="1713389798643" />
+    </language>
+    <language id="JAVA">
+      <summary usageCount="68" lastUsage="1713389798621" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TicTacToeMiniMax" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/andrew/IdeaProjects/TicTacToeMiniMax}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TicTacToeMiniMax" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/andrew/IdeaProjects/TicTacToeMiniMax}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/andrew/IdeaProjects/TicTacToeMiniMax/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TicTacToeMiniMax" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/andrew/IdeaProjects/TicTacToeMiniMax}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/andrew/IdeaProjects/TicTacToeMiniMax/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/andrew/IdeaProjects/TicTacToeMiniMax/src/model}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TicTacToeMiniMax" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/andrew/IdeaProjects/TicTacToeMiniMax}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/andrew/IdeaProjects/TicTacToeMiniMax/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/andrew/IdeaProjects/TicTacToeMiniMax/src/tests}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TicTacToeMiniMax" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/andrew/IdeaProjects/TicTacToeMiniMax}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/andrew/IdeaProjects/TicTacToeMiniMax/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/andrew/IdeaProjects/TicTacToeMiniMax/src/views_controllers}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Application.consoleLight" />
+      <element setting="JUnit.MinimaxTest.testOtherBlock" />
+      <element setting="JUnit.MinimaxTest.testBlock" />
+      <element setting="JUnit.MinimaxTest.hasLosingChild" />
+      <element setting="JUnit.testDidWinTie.testDidWin" />
+    </history>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MinimaxTest_testBlock - 2024.04.11 at 13h 43m 15s.xml">
+      <configuration name="MinimaxTest.testBlock" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MinimaxTest_testBlock - 2024.04.11 at 13h 48m 41s.xml">
+      <configuration name="MinimaxTest.testBlock" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MinimaxTest_testBlock - 2024.04.11 at 13h 52m 01s.xml">
+      <configuration name="MinimaxTest.testBlock" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MinimaxTest_testOtherBlock - 2024.04.11 at 13h 52m 03s.xml">
+      <configuration name="MinimaxTest.testOtherBlock" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MinimaxTest_testOtherBlock - 2024.04.11 at 13h 53m 04s.xml">
+      <configuration name="MinimaxTest.testOtherBlock" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MinimaxTest_testOtherBlock - 2024.04.11 at 13h 53m 09s.xml">
+      <configuration name="MinimaxTest.testOtherBlock" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MinimaxTest_testOtherBlock - 2024.04.11 at 13h 53m 20s.xml">
+      <configuration name="MinimaxTest.testOtherBlock" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MinimaxTest_testOtherBlock - 2024.04.11 at 13h 53m 22s.xml">
+      <configuration name="MinimaxTest.testOtherBlock" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MinimaxTest_testOtherBlock - 2024.04.11 at 13h 53m 37s.xml">
+      <configuration name="MinimaxTest.testOtherBlock" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MinimaxTest_testOtherBlock - 2024.04.11 at 13h 53m 39s.xml">
+      <configuration name="MinimaxTest.testOtherBlock" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14670000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3298803" />
+      <window_info id="Commit" order="1" weight="0.3298803" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Find" visible="true" weight="0.3298105" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.8852041" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="bottom" id="Build" order="6" weight="0.33491254" />
+      <window_info anchor="bottom" id="Debug" order="7" visible="true" weight="0.33782798" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.8852041" left="0.3298803" />
+    </layoutV2>
+    <recentWindows>
+      <value>Run</value>
+      <value>Debug</value>
+      <value>Project</value>
+      <value>Find</value>
+      <value>Commit</value>
+      <value>Build</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="735" y="423" width="790" height="710" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1712359989710">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="735" y="423" width="790" height="710" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2256.1504@0.0.2256.1504" timestamp="1712359989710" />
+    <state width="2048" height="1151" key="GridCell.Tab.0.bottom" timestamp="1713389915898">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="2048" height="1151" key="GridCell.Tab.0.bottom/0.0.2256.1504@0.0.2256.1504" timestamp="1713389915898" />
+    <state width="2048" height="1151" key="GridCell.Tab.0.center" timestamp="1713389915898">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="2048" height="1151" key="GridCell.Tab.0.center/0.0.2256.1504@0.0.2256.1504" timestamp="1713389915898" />
+    <state width="2048" height="1151" key="GridCell.Tab.0.left" timestamp="1713389915898">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="2048" height="1151" key="GridCell.Tab.0.left/0.0.2256.1504@0.0.2256.1504" timestamp="1713389915898" />
+    <state width="2048" height="1151" key="GridCell.Tab.0.right" timestamp="1713389915898">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="2048" height="1151" key="GridCell.Tab.0.right/0.0.2256.1504@0.0.2256.1504" timestamp="1713389915898" />
+    <state width="2048" height="400" key="GridCell.Tab.1.bottom" timestamp="1712868819194">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="2048" height="400" key="GridCell.Tab.1.bottom/0.0.2256.1504@0.0.2256.1504" timestamp="1712868819194" />
+    <state width="2048" height="400" key="GridCell.Tab.1.center" timestamp="1712868819194">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="2048" height="400" key="GridCell.Tab.1.center/0.0.2256.1504@0.0.2256.1504" timestamp="1712868819194" />
+    <state width="2048" height="400" key="GridCell.Tab.1.left" timestamp="1712868819194">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="2048" height="400" key="GridCell.Tab.1.left/0.0.2256.1504@0.0.2256.1504" timestamp="1712868819194" />
+    <state width="2048" height="400" key="GridCell.Tab.1.right" timestamp="1712868819194">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="2048" height="400" key="GridCell.Tab.1.right/0.0.2256.1504@0.0.2256.1504" timestamp="1712868819194" />
+    <state x="528" y="382" width="1204" height="792" key="Vcs.Push.Dialog.v2" timestamp="1712359908737">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="528" y="382" width="1204" height="792" key="Vcs.Push.Dialog.v2/0.0.2256.1504@0.0.2256.1504" timestamp="1712359908737" />
+    <state width="1088" height="688" key="XDebugger.FullValuePopup" timestamp="1712868602826">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="1088" height="688" key="XDebugger.FullValuePopup/0.0.2256.1504@0.0.2256.1504" timestamp="1712868602826" />
+    <state x="621" y="12" width="1023" height="1514" key="search.everywhere.popup" timestamp="1712354413104">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="621" y="12" width="1023" height="1514" key="search.everywhere.popup/0.0.2256.1504@0.0.2256.1504" timestamp="1712354413104" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/views_controllers/consoleView.java" />
+    <entry file="file://$PROJECT_DIR$/src/model/TicTacToeGame.java" />
+    <entry file="file://$PROJECT_DIR$/src/views_controllers/TextAreaView.java" />
+    <entry file="file://$PROJECT_DIR$/src/model/ComputerPlayer.java" />
+    <entry file="file://$PROJECT_DIR$/src/model/RandomAI.java" />
+    <entry file="file://$PROJECT_DIR$/src/model/TicTacToeStrategy.java" />
+    <entry file="file://$PROJECT_DIR$/src/model/MiniMaxer.java" />
+    <entry file="file://$PROJECT_DIR$/src/model/IntermediateAI.java" />
+    <entry file="file://$PROJECT_DIR$/src/model/IGotNowhereToGoException.java" />
+    <entry file="file://$PROJECT_DIR$/src/model/TTTGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3968">
+          <caret line="124" column="26" selection-start-line="124" selection-start-column="26" selection-end-line="124" selection-end-column="26" />
+          <folding>
+            <element signature="e#902#903#0" expanded="true" />
+            <element signature="e#989#990#0" expanded="true" />
+            <element signature="e#1018#1019#0" expanded="true" />
+            <element signature="e#1097#1098#0" expanded="true" />
+            <element signature="e#1138#1139#0" expanded="true" />
+            <element signature="e#1218#1219#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tests/TestLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/GameTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3808">
+          <caret line="119" selection-start-line="119" selection-end-line="119" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tests/testDidWinTie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="832">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.jdks/corretto-19.0.2/lib/src.zip!/java.base/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3522">
+          <caret line="251" column="23" selection-start-line="251" selection-start-column="23" selection-end-line="251" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tests/MinimaxTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views_controllers/consoleLight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4">
+          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

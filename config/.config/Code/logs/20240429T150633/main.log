@@ -1,0 +1,5 @@
+2024-04-29 15:06:33.172 [info] update#setState idle
+2024-04-29 15:07:03.152 [info] update#setState checking for updates
+2024-04-29 15:07:03.155 [info] update#setState available for download
+2024-04-29 15:10:10.090 [info] Extension host with pid 3166 exited with code: 0, signal: unknown.
+2024-04-29 15:10:10.091 [error] [UtilityProcess id: 1, type: extensionHost, pid: 3166]: crashed with code 15 and reason 'killed'

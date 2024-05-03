@@ -1,5 +1,9 @@
 [Document]
 ChangeColors=true
 
+[PageView]
+MouseMode=TextSelect
+
 [Reviews]
+QuickAnnotationDefaultAction=3
 QuickAnnotationTools=<tool id="1" default="true" type="highlight" name="Yellow Highlighter"><engine color="#ffff00" type="TextSelector"><annotation color="#ffffff00" type="Highlight"/></engine><shortcut>1</shortcut></tool>,<tool id="2" default="true" type="highlight" name="Green Highlighter"><engine color="#00ff00" type="TextSelector"><annotation color="#ff00ff00" type="Highlight"/></engine><shortcut>2</shortcut></tool>,<tool id="3" type="underline"><engine color="#ff0000" type="TextSelector"><annotation color="#ffff0000" type="Underline"/></engine><shortcut>3</shortcut></tool>,<tool id="4" default="true" type="typewriter" name="Insert Text"><engine block="true" type="PickPoint"><annotation color="#00ffffff" textColor="#000000" type="Typewriter" width="0"/></engine><shortcut>4</shortcut></tool>,<tool id="5" type="note-inline"><engine color="#ffff00" hoverIcon="tool-note-inline" block="true" type="PickPoint"><annotation color="#ffffff00" textColor="#ff000000" type="FreeText"/></engine><shortcut>5</shortcut></tool>,<tool id="6" type="note-linked"><engine color="#ffff00" hoverIcon="tool-note" type="PickPoint"><annotation icon="Note" color="#ffffff00" type="Text"/></engine><shortcut>6</shortcut></tool>

@@ -1,0 +1,10 @@
+2024-05-03 15:34:33.019 [info] Started local extension host with pid 3083.
+2024-05-03 15:34:33.201 [error] Extension 'ms-python.debugpy' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): portsAttributes, contribIssueReporter
+product.json (WINS): portsAttributes
+2024-05-03 15:34:33.201 [error] Extension 'ms-python.python' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): contribEditorContentMenu, quickPickSortByLabel, testObserver, quickPickItemTooltip, terminalDataWriteEvent, terminalExecuteCommandEvent, contribIssueReporter
+product.json (WINS): contribEditorContentMenu, quickPickSortByLabel, portsAttributes, handleIssueUri, testObserver, quickPickItemTooltip, terminalDataWriteEvent, terminalExecuteCommandEvent
+2024-05-03 15:34:33.284 [error] [ms-python.debugpy]: issue/reporter is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribIssueReporter"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.debugpy
+2024-05-03 15:34:33.285 [error] [ms-python.python]: issue/reporter is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribIssueReporter"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+2024-05-03 15:34:35.927 [info] [perf] Render performance baseline is 38ms

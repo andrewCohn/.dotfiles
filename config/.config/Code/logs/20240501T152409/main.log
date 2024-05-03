@@ -1,0 +1,5 @@
+2024-05-01 15:24:09.202 [info] update#setState idle
+2024-05-01 15:24:39.205 [info] update#setState checking for updates
+2024-05-01 15:24:39.208 [info] update#setState available for download
+2024-05-01 15:25:58.093 [info] Extension host with pid 3038 exited with code: 0, signal: unknown.
+2024-05-01 15:25:58.094 [error] [UtilityProcess id: 1, type: extensionHost, pid: 3038]: crashed with code 15 and reason 'killed'
